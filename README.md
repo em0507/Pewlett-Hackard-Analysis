@@ -2,7 +2,7 @@
 
 
 ## Overview of the analysis:
-### 
+### The overview
 
 ## Results: 
 ### There is a bulleted list with four major points from the two analysis deliverables. 
