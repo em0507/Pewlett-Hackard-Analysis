@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 
-## Overview of the analysis:
+## Overview:
 ### The overview
 
 ## Results: 
